@@ -7,7 +7,7 @@
 
 ________________________________________________________________
 
-<p><img src="https://raw.githubusercontent.com/atomatoe/minitalk/master/screenshots/send_signal_1.png" alt="Ссылка"></p>
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl1_1.png" alt="Ссылка"></p>
 ________________________________________________________________
 
 </details>
