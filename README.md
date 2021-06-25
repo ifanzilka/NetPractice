@@ -103,6 +103,9 @@ ________________________________________________________________
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl4_1.png" alt="Ссылка"></p>
 ________________________________________________________________
 
+ ### Здесь добавляется новый обьект Маршрутизатор 
+ https://hobbyits.com/naznachenie-i-funkcii-marshrutizatora-v-lokalnoj-seti/
+  
 </details>
 
 
