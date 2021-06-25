@@ -34,3 +34,16 @@ ________________________________________________________________
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl1_2.png" alt="Ссылка"></p>
 
 </details>
+
+<details>
+<summary>Level_2</summary>
+
+________________________________________________________________
+
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl1_1.png" alt="Ссылка"></p>
+________________________________________________________________
+  
+
+</details>
+
+
