@@ -90,7 +90,7 @@ ________________________________________________________________
 
  ________________________________________________________________
 
-<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl3_1.png" alt="Ссылка"></p>
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl3_2.png" alt="Ссылка"></p>
 ________________________________________________________________
   
 </details>
