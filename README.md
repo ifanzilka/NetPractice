@@ -113,7 +113,7 @@ ________________________________________________________________
   
   ________________________________________________________________
 
-<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl4_1.png" alt="Ссылка"></p>
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl4_2.png" alt="Ссылка"></p>
 ________________________________________________________________
 
   
