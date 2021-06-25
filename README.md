@@ -140,7 +140,7 @@ ________________________________________________________________
   
 #### Вот пример как это работает
   
-<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl5_1.png" alt="Ссылка"></p>  
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl5_2.png" alt="Ссылка"></p>  
   
 </details>
 
