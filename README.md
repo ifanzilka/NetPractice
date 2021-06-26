@@ -233,6 +233,8 @@ ________________________________________________________________
  #### 3) Теперь в ```Interface R21``` укажем сеть с которой свзяан ```Interface R13```
   
  #### 4) Теперь в ```router R1``` укажем чтобы пакеты шли через интрфейс ```Interface R21 ```
+ 
+ #### 5) Теперь нужно ```Interface R23``` и ```Interface R22``` разделить на две подсети
   
   <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl8_2.png" alt="Ссылка"></p>
   
