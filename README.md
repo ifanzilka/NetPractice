@@ -215,7 +215,7 @@ ________________________________________________________________
 
 ________________________________________________________________
 
-<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl7_1.png" alt="Ссылка"></p>
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl8_1.png" alt="Ссылка"></p>
 ________________________________________________________________
   
   
