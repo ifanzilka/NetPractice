@@ -226,7 +226,7 @@ ________________________________________________________________
  #### 192.168.0.0 ~ 192.168.255.255 (192.168.0.0/16) (Класс C)
   
   
-  <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl7_2.png" alt="Ссылка"></p>
+  <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl8_2.png" alt="Ссылка"></p>
   
 </details>
 
