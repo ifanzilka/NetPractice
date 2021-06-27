@@ -310,10 +310,15 @@ ________________________________________________________________
   
 ## 1) Goal 1 : Host one need to communicate with Host two
   
-####  Для этого настроим ```Interface H21```, ```Interface H11```
+####  Для этого настроим ```Interface H21```, ```Interface H11``` чтобы они были в одной сети
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_2.png" alt="Ссылка"></p>  
+
+## 2) Goal 2 : Host three need to communicate with Host four 
   
+####  Для этого настроим ```Interface H21```, ```Interface H11``` чтобы они были в одной сети  
+  
+  <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_3.png" alt="Ссылка"></p> 
 </details>
 
 
