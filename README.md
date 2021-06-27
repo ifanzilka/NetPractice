@@ -339,6 +339,8 @@ ________________________________________________________________
   
 ## 5) Goal 5 : Host two need to communicate with Host three 
   
+   ####  Для этого настроим ```router R1: Router one```  чтобы пакеты шли ко всем
+  
   <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_6.png" alt="Ссылка"></p> 
   
 </details>
