@@ -282,7 +282,9 @@ ________________________________________________________________
  
 ## 4) Goal 4 : meson need to communicate with gluon
 
-####  Для этого настроим ```router R2: boson```, ```Interface R21```, ```Interface R13``` так чтобы они были в одной сети    
+####  Для этого настроим ```router R2: boson```, ```Interface R21```, ```Interface R13``` так чтобы они были в одной сети  
+  
+#### Также нужно прописать шлюз в   ```router R1: proton```
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_5.png" alt="Ссылка"></p>   
   
