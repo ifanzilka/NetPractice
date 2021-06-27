@@ -256,6 +256,7 @@ ________________________________________________________________
   
 #### 1) В первую очередь выполним Goal 3 настроить чтобы работали meson need to communicate with Internet 
 
+####  Для этого настроим ```Client A```, ```Interface A1```, ```Interface R11``` так чтобы они были в одной сети
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_2.png" alt="Ссылка"></p>  
   
