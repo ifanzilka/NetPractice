@@ -320,7 +320,13 @@ ________________________________________________________________
   
 #### Также ```Interface H31```, ```client H3: Host three``` чтобы они были в одной сети  
   
+  
   <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_3.png" alt="Ссылка"></p> 
+  
+## 3) Goal 3 : Host one need to communicate with Internet   
+  
+    <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_4.png" alt="Ссылка"></p> 
+  
 </details>
 
 
