@@ -337,6 +337,10 @@ ________________________________________________________________
   
   <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_5.png" alt="Ссылка"></p> 
   
+## 5) Goal 5 : Host two need to communicate with Host three 
+  
+  <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_6.png" alt="Ссылка"></p> 
+  
 </details>
 
 
