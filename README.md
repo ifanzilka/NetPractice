@@ -279,6 +279,10 @@ ________________________________________________________________
 ####  Также нужно настроить ```client D: gluon:```, ```Interface  D1```, ```Interface R23``` так чтобы они были в одной сети  
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_4.png" alt="Ссылка"></p>   
+ 
+## 4) Goal 4 : meson need to communicate with gluon
+
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_5.png" alt="Ссылка"></p>   
   
 </details>
 
