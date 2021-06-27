@@ -275,7 +275,8 @@ ________________________________________________________________
  
   
 ####  Для этого настроим ```client C:```, ```Interface  C1```, ```Interface R22``` так чтобы они были в одной сети  
-  
+
+####  Также нужно настроить ```client D: gluon:```, ```Interface  D1```, ```Interface R23``` так чтобы они были в одной сети  
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_4.png" alt="Ссылка"></p>   
   
