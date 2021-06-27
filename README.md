@@ -288,7 +288,11 @@ ________________________________________________________________
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_5.png" alt="Ссылка"></p>   
  
-## 4) Как мы видим, так как мы правильно настроили у нас также заработал Goal 5 : ion need to communicate with cation
+## 5) Как мы видим, так как мы правильно настроили у нас также заработал Goal 5 : ion need to communicate with cation
+  
+## 6) Goal 6 : cation need to communicate with Internet   
+  
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_6.png" alt="Ссылка"></p>  
   
 </details>
 
