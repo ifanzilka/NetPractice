@@ -325,7 +325,7 @@ ________________________________________________________________
   
 ## 3) Goal 3 : Host one need to communicate with Internet   
   
-    <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_4.png" alt="Ссылка"></p> 
+  <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_4.png" alt="Ссылка"></p> 
   
 </details>
 
