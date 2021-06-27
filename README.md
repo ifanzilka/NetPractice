@@ -261,7 +261,9 @@ ________________________________________________________________
 #### Чтобы мы могли коммуницировать с   ```Internet``` , пропишем путь чтобы пакеты шли в нашу сеть
   
   
-<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_2.png" alt="Ссылка"></p>  
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_2.png" alt="Ссылка"></p> 
+  
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_3.png" alt="Ссылка"></p>   
   
 ## 2) Теперь выполним Goal 2 : cation need to communicate with gluon 
  
