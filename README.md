@@ -292,6 +292,9 @@ ________________________________________________________________
   
 ## 6) Goal 6 : cation need to communicate with Internet   
   
+####  Для этого настроим ```router R1: proton```, ```internet I: Internet``` (Пропишем все пути)
+    
+  
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_6.png" alt="Ссылка"></p>  
   
 </details>
