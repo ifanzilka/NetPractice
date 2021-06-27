@@ -331,7 +331,7 @@ ________________________________________________________________
  
 ## 4) Goal 4 : Host one need to communicate with Host four 
   
-    <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_5.png" alt="Ссылка"></p> 
+  <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_5.png" alt="Ссылка"></p> 
   
 </details>
 
