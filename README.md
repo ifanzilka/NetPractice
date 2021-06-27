@@ -325,6 +325,8 @@ ________________________________________________________________
   
 ## 3) Goal 3 : Host one need to communicate with Internet   
   
+#### Для этого поменяем в ```internet I: Internet ``` чтобы весь трафик шел в наши сети
+  
   <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_4.png" alt="Ссылка"></p> 
   
 </details>
