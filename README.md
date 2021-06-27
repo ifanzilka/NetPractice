@@ -271,9 +271,12 @@ ________________________________________________________________
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_3.png" alt="Ссылка"></p>   
   
-## 2) Теперь выполним Goal 2 : cation need to communicate with gluon
+## 3) Теперь выполним Goal 2 : cation need to communicate with gluon
  
-
+  
+####  Для этого настроим ```client C:```, ```Interface  C1```, ```Interface R22``` так чтобы они были в одной сети  
+  
+  
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_4.png" alt="Ссылка"></p>   
   
 </details>
