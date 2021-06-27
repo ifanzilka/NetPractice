@@ -331,6 +331,10 @@ ________________________________________________________________
  
 ## 4) Goal 4 : Host one need to communicate with Host four 
   
+  ####  Для этого настроим ```Interface R13```  чтобы они были в одной сети  
+  
+  #### Также у нас решилось Goal 7
+  
   <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_5.png" alt="Ссылка"></p> 
   
 </details>
