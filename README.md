@@ -308,7 +308,11 @@ ________________________________________________________________
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_1.png" alt="Ссылка"></p>
 ________________________________________________________________
   
-
+## 1) Goal 1 : Host one need to communicate with Host two
+  
+####  Для этого настроим ```Interface H21```, ```Interface H11```
+  
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_2.png" alt="Ссылка"></p>  
   
 </details>
 
