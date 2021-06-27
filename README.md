@@ -328,6 +328,10 @@ ________________________________________________________________
 #### Для этого поменяем в ```internet I: Internet ``` чтобы весь трафик шел в наши сети
   
   <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_4.png" alt="Ссылка"></p> 
+ 
+## 4) Goal 4 : Host one need to communicate with Host four 
+  
+    <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl10_5.png" alt="Ссылка"></p> 
   
 </details>
 
