@@ -266,7 +266,9 @@ ________________________________________________________________
 
   
 ## 2) Теперь выполним Goal 1 : meson need to communicate with ion 
- 
+
+####  Для этого настроим ```client B```, ```Interface  B2```, ```Interface R11``` так чтобы они были в одной сети  
+  
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_3.png" alt="Ссылка"></p>   
   
 
