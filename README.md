@@ -263,10 +263,11 @@ ________________________________________________________________
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_2.png" alt="Ссылка"></p> 
   
-<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_3.png" alt="Ссылка"></p>   
+
   
 ## 2) Теперь выполним Goal 1 : meson need to communicate with ion 
  
+<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_3.png" alt="Ссылка"></p>   
   
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_4.png" alt="Ссылка"></p>    
   
