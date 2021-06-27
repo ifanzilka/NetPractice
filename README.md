@@ -254,7 +254,7 @@ ________________________________________________________________
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_1.png" alt="Ссылка"></p>
 ________________________________________________________________
   
-  
+#### 1) В первую очередь выполним Goal 3 настроить чтобы работали meson need to communicate with Internet 
   
 </details>
 
