@@ -269,7 +269,7 @@ ________________________________________________________________
  
 <p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_3.png" alt="Ссылка"></p>   
   
-<p><img src="https://github.com/ifanzilka/NetPractice/blob/master/image/lvl9_4.png" alt="Ссылка"></p>    
+
   
 </details>
 
